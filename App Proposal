@@ -13,6 +13,7 @@ Situation
 - The situation of poor engagement on how to be aware on the enviromental changes on this generation that they need to wait for articles for a few days, And having this real time app more users has the
   stability to react and adjust their actions on the enviromental changes on time.
 
+
 Products/Performance/
 Output
 
@@ -26,11 +27,31 @@ This app flexibility all around users but mainly the SDS's targets are:
 
 -- Key features:
 Real time access- Monitors real time data of issues/actions and vissualization on the main dashboard
+Date and Sensor Selection - Users can define the date range for the data they wish to analyze, and select from various sensors to customize the information displayed.
 Climate Alerts & Notifications – Get alerts for environmental hazards and climate risks.
 Interactive Data Visualization – Visualize environmental changes through maps, charts, and graphs.
 Environmental Impact Tracker – Personalized eco-scores and sustainability recommendations.
-Policy & Research Insights – Access real-time policy updates and environmental research.
 
---
+
+--Technical Architecture
+
+
+
+
+--Research and Evidence
+  Resarch contents:
+
+-Environmental sustainability indicators as impact tracker: A review: https://www.researchgate.net/publication/313747697_Environmental_sustainability_indicators_as_impact_tracker_A_review
+
+-A systematic review of trustworthy artificial intelligence applications in natural disasters: https://www.sciencedirect.com/science/article/pii/S0045790624003379
+
+-Federal Environmental Web Tracker: https://envirodatagov.org/federal-environmental-web-tracker-about-page/
+
+-The Role of Eco-Apps in Encouraging Pro-Environmental Behavior of Young People Studying in Poland: https://www.researchgate.net/publication/354681244_The_Role_of_Eco-Apps_in_Encouraging_Pro-Environmental_Behavior_of_Young_People_Studying_in_Poland
+
+
+
+
+
 
 
