@@ -34,7 +34,10 @@ An Effective Data Placement Strategy for XMLDocuments                          :
 
 Overview-
 
-According to
+According to (https://core.ac.uk/reader/11434179) The definition of a Web service can be exported to a definition file, published to a lookup service, and discovered by 
+other software systems. These systems may hen nteract with the Web service in a manner described by its definition, using XML based messages conveyed by Internet protocols.
+And according to (https://core.ac.uk/reader/336089) The specification presents the information set as a treeand accordingly the information items as the node of the tree. 
+Any information item inthe XML document can be reached by recursively following the properties of the rootinformation item. 
 
 
 
