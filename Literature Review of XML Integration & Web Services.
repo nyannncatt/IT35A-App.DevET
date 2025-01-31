@@ -78,6 +78,8 @@ Web services are crucial in building scalable and flexible systems that can adap
 The integration of web services with cloud computing platforms has revolutionized application development by providing on-demand resources, increased flexibility, and scalability, which are key drivers for the growing adoption of cloud technologies.
 (A. M. M. Zaid, et al., "Web Services in Cloud Computing: A Comprehensive Survey," Journal of Cloud Computing: Advances, Systems and Applications, vol. 3, pp. 1-12, 2014. DOI: 10.1186/s13677-014-0027-x)
 
+
+
 -XML
 
 * Data Representation and Interchange:
@@ -95,6 +97,8 @@ One of XML's defining characteristics is its human-readable format, making it ea
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Comparison-
+
+
 
 Web services:
 
@@ -127,6 +131,8 @@ Web services require an active network connection, making them unreliable in off
 (Singh, A., & Juneja, D. (2013). "Security Concerns and Challenges in Web Services Communication." International Journal of Advanced Research in Computer Science and Software Engineering).
 
 
+
+
 XML:
 
 Advantages of XML-
@@ -142,6 +148,8 @@ XML can be used across different platforms and programming languages without com
 Self-Descriptive and Extensible
 XML allows users to define custom tags, making it flexible for various applications.
 (Deutsch, A., Fernandez, M., & Suciu, D. (1999). "XML Query Languages: A Survey and a New Technique." Computer Networks and ISDN Systems. DOI: 10.1016/S0169-7552(99)00018-5).
+
+
 
 
 Disadvantages of XML
