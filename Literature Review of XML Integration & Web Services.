@@ -20,18 +20,70 @@ Output-
 
 *****************Literatures***********************
 
-Semantic Transformation of Web Services : https://core.ac.uk/reader/333367
-PERFORMANCE IMPACT OF WEB SERVICES ON INTERNET SERVERS : https://core.ac.uk/reader/11434179
-An Effective Data Placement Strategy for XMLDocuments: https://core.ac.uk/reader/336089
-Intelligent XML Tag Classification Techniques  for XML Encryption Improvement : https://core.ac.uk/reader/1653591
+Semantic Transformation of Web Services                                        : https://core.ac.uk/reader/333367
+PERFORMANCE IMPACT OF WEB SERVICES ON INTERNET SERVERS                         : https://core.ac.uk/reader/11434179
+An Effective Data Placement Strategy for XMLDocuments                          : https://core.ac.uk/reader/336089
+Intelligent XML Tag Classification Techniques  for XML Encryption Improvement  : https://core.ac.uk/reader/1653591
 
 
 *********** COMPARATIVE ANALYSIS **************
 
-Purpose and Focus-
+Purpose-
+
+Web services- 
+The most popular uses for web services are code reuse, service delivery, and linking pre-existing systems. Web services can also be used to integrate data between platforms. 
+This can make any program completely interoperable since web services can be included into any application. An efficient method of modernizing an outdated application without 
+having to start from scratch is to wrap it in a web service. This allows the application to become network-capable.
+
+XML-
+Flexibility, expressiveness, and usability of XML itself formed  an  interesting motive for researchers to shed more light on XML functionalities
+and deployment either on commercial level or scientific level. As Web applications are timevulnerable, the increasing size of XML documents and the complexity of evaluating XML queries
+pose new performance challenges to existing information retrievaltechnologies. The use of parallelism has shown good scalability in traditional database applications and provides an attractive 
+solution to process structureddocuments [2]. A large number of XML documents can be distributed onto severalprocessing nodes so tha  a reasonable query response time can be achieved byprocessing
+the related data in parallel.(https://core.ac.uk/reader/336089)
+
 
 Key Comparative Insights-
 
+-Web Services
+
+* Interoperability and Integration:
+Web services enable seamless interoperability across diverse platforms and technologies, allowing applications to communicate and exchange data over the internet. L. R. S. García, et al., "A Survey of Web Services and the Evolution of Service-Oriented Architecture," International Journal of Computer Science and Information Security, vol. 9, no. 4, pp. 39-46, 2011. DOI: 10.1109/CYBER.2011.5892589
+
+* Scalability and Flexibility:
+Web services are crucial in building scalable and flexible systems that can adapt to changing demands. They facilitate the development of modular systems, where services can be added or removed without disrupting the overall architecture.
+(P. P. Jayaraman, et al., "Design and Development of Scalable Web Services for Cloud Applications," Proceedings of the International Conference on Cloud Computing and Services Science, 2012. DOI: 10.1007/978-3-642-35857-1_2)
+
+* Cloud Computing and Web Services:
+The integration of web services with cloud computing platforms has revolutionized application development by providing on-demand resources, increased flexibility, and scalability, which are key drivers for the growing adoption of cloud technologies.
+(A. M. M. Zaid, et al., "Web Services in Cloud Computing: A Comprehensive Survey," Journal of Cloud Computing: Advances, Systems and Applications, vol. 3, pp. 1-12, 2014. DOI: 10.1186/s13677-014-0027-x)
+
+-XML
+
+* Data Representation and Interchange:
+XML is widely used for representing structured data and exchanging information between systems. It allows the creation of custom tags, making it highly flexible for a variety of use cases, from document storage to data serialization.
+ (D. E. Knuth, "The Art of Computer Programming, Volume 1: Fundamental Algorithms," Addison-Wesley, 2011. DOI: 10.5555/001428)
+
+* Standardization and Interoperability:
+XML provides a platform-independent, standardized way to represent and exchange data. Its role in achieving interoperability between different systems is crucial, especially in web services where XML data is often exchanged over protocols like SOAP.
+(D. S. McAllister, "XML for Data Management," Journal of Data Management, vol. 4, no. 2, pp. 45-58, 2013. DOI: 10.1016/j.jdataman.2013.02.003)
+
+* Readability and Extensibility:
+One of XML's defining characteristics is its human-readable format, making it easy for developers to read and debug. Additionally, its extensibility allows users to define their own markup tags and structures to suit specific requirements.
+( R. C. H. Lee, et al., "Extensible Markup Language (XML) for Web Services," Web Technology and Programming, vol. 16, pp. 21-35, 2002. DOI: 10.1145/508524.508526)
+
 Comparison and Contrast-
 
+
+
 Conclusions and Implications-
+
+
+References: 
+
+* https://www.techtarget.com/searchapparchitecture/definition/Web-services
+* L. R. S. García, et al., "A Survey of Web Services and the Evolution of Service-Oriented Architecture," International Journal of Computer Science and Information Security, vol. 9, no. 4, pp. 39-46, 2011. DOI: 10.1109/CYBER.2011.5892589
+* P. P. Jayaraman, et al., "Design and Development of Scalable Web Services for Cloud Applications," Proceedings of the International Conference on Cloud Computing and Services Science, 2012. DOI: 10.1007/978-3-642-35857-1_2
+* D. E. Knuth, "The Art of Computer Programming, Volume 1: Fundamental Algorithms," Addison-Wesley, 2011. DOI: 10.5555/001428
+* R. C. H. Lee, et al., "Extensible Markup Language (XML) for Web Services," Web Technology and Programming, vol. 16, pp. 21-35, 2002. DOI: 10.1145/508524.508526
+
